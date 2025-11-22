@@ -45,11 +45,3 @@
 ###
 
 <p align="left">For the past 3 years, I’ve been managing and developing a Minecraft Bedrock server, including:<br><br>⚙️ Building and maintaining custom gameplay systems<br>🧩 Developing and configuring addons / behavior packs<br>🧱 Creating 3D models (blocks, items, entities) for server content<br><br>During this time, I also achieved:<br><br>📈 Increased server player visits by over 40%<br>💰 Boosted server revenue by more than 70%</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kastaratexar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
