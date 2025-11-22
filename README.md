@@ -1,8 +1,8 @@
-<h1 align="left">Hey! I'm Fajar Kastara</h1>
+<h1 align="center">Hey! I'm Fajar Kastara</h1>
 
 ###
 
-<p align="left">I am Fajar Kastara, originally from Indonesia, this is my journey to<br>become a fullstack developer and UI/UX designer.</p>
+<p align="center">I am Fajar Kastara, originally from Indonesia, this is my journey to<br>become a fullstack developer and UI/UX designer.</p>
 
 ###
 
@@ -36,11 +36,15 @@
 
 ###
 
-<h3 align="left">🛠️ Skills I'm Learning</h3>
+<p align="left"></p>
 
 ###
 
-<p align="left">Frontend: HTML, CSS, JavaScript  <br>Backend: Node.js (in progress)  <br>UI/UX: Figma, layouting, design systems</p>
+<h2 align="left">🧾 Experience</h2>
+
+###
+
+<p align="left">For the past 3 years, I’ve been managing and developing a Minecraft Bedrock server, including:<br><br>⚙️ Building and maintaining custom gameplay systems<br>🧩 Developing and configuring addons / behavior packs<br>🧱 Creating 3D models (blocks, items, entities) for server content<br><br>During this time, I also achieved:<br><br>📈 Increased server player visits by over 40%<br>💰 Boosted server revenue by more than 70%</p>
 
 ###
 
