@@ -1,8 +1,8 @@
-<h1 align="center">Hey! I'm Fajar Kastara</h1>
+<h1 align="left">Hey! I'm Fajar Kastara</h1>
 
 ###
 
-<p align="center">I am Fajar Kastara, originally from Indonesia, this is my journey to<br>become a fullstack developer and UI/UX designer.</p>
+<p align="left">I am Fajar Kastara, originally from Indonesia, this is my journey to<br>become a fullstack developer and UI/UX designer.</p>
 
 ###
 
@@ -35,6 +35,13 @@
 </div>
 
 ###
+
+<h3 align="left">🛠️ Skills I'm Learning</h3>
+
+###
+
+<p align="left">Frontend: HTML, CSS, JavaScript  <br>Backend: Node.js (in progress)  <br>UI/UX: Figma, layouting, design systems</p>
+
 ###
 
 <div align="center">
